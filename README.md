@@ -1,2 +1,2 @@
 # coding-samples
-Samples of my code
+The files located here are my coding samples for both Stata and R
